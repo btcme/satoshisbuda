@@ -15,7 +15,7 @@ move the mouse to the position where you want to draw picture; then you'll get (
 
 ## step2:
 
-open `satoshisbuda.html' on brower, set (x,y) position and upload a tiny picture;
+Clone this repo and open `satoshisbuda.html` on brower, set (x,y) position and upload a tiny picture;
 
 then you'll get lightning pay request just like:
 
