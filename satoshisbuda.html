@@ -47,7 +47,8 @@
       var y = "120";
       var satoshisColors = [];
       
-      var socket = io.connect("https://api.satoshis.place"); 
+      //var socket = io.connect("https://api.satoshis.place"); 
+      var socket = io.connect("https://satoshiapi.btcme.com/"); 
 
       function closestColor(color) {
         var minD = 1000000;
